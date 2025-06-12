@@ -37,7 +37,7 @@ This project provides a comprehensive solution for analyzing Indian Premier Leag
 
 1.  **Clone the Repository**:
     ```bash
-    git clone <repository_url>
+    git clone https://github.com/shashikantdev3/End-to-End-IPL-Analysis-Dashboard-and-Live-Insights.git
     cd "End-to-End IPL Analysis Dashboard and Live Insights"
     ```
 2.  **Prepare Data**: Ensure `ipl_matches_2008_2025.xlsx` and `ipl_ball_by_ball_2008_2025.xlsx` are in the project root or specified data directories.
